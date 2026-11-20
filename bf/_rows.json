@@ -1,7 +1,15 @@
 {
  "fields": [
+  "images",
   "images_urls",
-  "discount"
+  "image_urls",
+  "pictures",
+  "photos",
+  "photo",
+  "image",
+  "discount",
+  "discounts",
+  "discount_value"
  ],
  "rows": [
   {
