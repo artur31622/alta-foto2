@@ -1,0 +1,18 @@
+{
+ "fields": [
+  "images_urls",
+  "discount"
+ ],
+ "rows": [
+  {
+   "Код_товару": "JRL-1040",
+   "Назва_позиції": "Машинка для стрижки JRL FreshFade 1040",
+   "Назва_позиції_укр": "Машинка для стрижки JRL FreshFade 1040",
+   "Посилання_зображення": "https://raw.githubusercontent.com/artur31622/alta-foto2/main/bf/JRL-1040.jpg, https://images.prom.ua/3645242619_mashinka-dlya-strizhki.jpg, https://images.prom.ua/3645242635_mashinka-dlya-strizhki.jpg, https://images.prom.ua/3645242640_mashinka-dlya-strizhki.jpg, https://images.prom.ua/3645242634_mashinka-dlya-strizhki.jpg",
+   "Знижка": "700",
+   "Термін_дії_знижки_від": "23.11.2026",
+   "Термін_дії_знижки_до": "07.12.2026",
+   "Унікальний_ідентифікатор": 3244175127
+  }
+ ]
+}
